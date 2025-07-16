@@ -28,8 +28,8 @@ Throughout this project journey, I was able to practice key analytical skills su
 Customer name: 
 ## TOOLS USED:
 - MICROSOFT EXCEL:
-- For data exploration 
+   - For data exploration 
 - SQL:
-- for data analysis 
-- For dada querying 
-- For extracting insights.
+  - for data analysis
+  - For dada querying
+  - For extracting insights.
