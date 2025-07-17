@@ -53,3 +53,9 @@ The location or area where the order was delivered. This can be used to compare 
   - for data analysis
   - For dada querying
   - For extracting insights.
+
+### DATA CLEANING AND PREPARATION 
+In this project, the dataset was well-structured and required little additional cleaning. Most entries were complete, correctly formatted, and free from duplicates or inconsistencies. As a result, no extensive data cleaning was performed.
+During the initial review of the dataset, some null values were observed. However, these missing entries were not significant enough to affect the overall analysis. As a result, they were retained, and no imputation or deletion was carried out.
+
+The dataset was then prepared and checked to ensure consistency in data types and formatting before moving into the analysis phase.
