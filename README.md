@@ -54,8 +54,35 @@ The location or area where the order was delivered. This can be used to compare 
   - For dada querying
   - For extracting insights.
 
-### DATA CLEANING AND PREPARATION 
+## DATA CLEANING AND PREPARATION 
 In this project, the dataset was well-structured and required little additional cleaning. Most entries were complete, correctly formatted, and free from duplicates or inconsistencies. As a result, no extensive data cleaning was performed.
 During the initial review of the dataset, some null values were observed. However, these missing entries were not significant enough to affect the overall analysis. As a result, they were retained, and no imputation or deletion was carried out.
 
 The dataset was then prepared and checked to ensure consistency in data types and formatting before moving into the analysis phase.
+
+## EXPLORATORY DATA ANALYSIS.
+At this stage, I made use of both Ms excel and sql  to explore the dataset and draw meaning insights. I was able to examine trends, distributions, and relationships between variables to aid better understanding of the data. This process also helped me spot any unusual values or patterns that could affect further analysis. 
+
+Some key focus in the exploratory data analysis are
+1. _Which product category has the highest sales:_
+
+Visualization:
+
+2. _What are the top three and bottom three in terms of sales:_
+
+visualization:
+
+3. _Which small business customer had the highest sales:_
+
+visualization:
+
+4. _Which customer consumer was the most profitable one:_
+
+visualization:
+
+5. _Kms incurred the most shipping cost by what shipping mode:_
+
+visualization:
+6. _Which corporate customer placed the most number of order in 2009-2012:_
+
+visualization:
