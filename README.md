@@ -68,6 +68,7 @@ Some key focus in the exploratory data analysis are
 
 Visualization:
 
+
 2. _What are the top three and bottom three in terms of sales:_
 
 visualization:
@@ -83,6 +84,7 @@ visualization:
 5. _Kms incurred the most shipping cost by what shipping mode:_
 
 visualization:
+
 6. _Which corporate customer placed the most number of order in 2009-2012:_
 
 visualization:
