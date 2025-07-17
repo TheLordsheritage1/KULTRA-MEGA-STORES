@@ -64,27 +64,36 @@ The dataset was then prepared and checked to ensure consistency in data types an
 At this stage, I made use of both Ms excel and sql  to explore the dataset and draw meaning insights. I was able to examine trends, distributions, and relationships between variables to aid better understanding of the data. This process also helped me spot any unusual values or patterns that could affect further analysis. 
 
 Some key focus in the exploratory data analysis are
-1. _Which product category has the highest sales:_
+1. _What are the top three and bottom three regions in terms of sales:_
 
-Visualization:
+Visualization top three:
+<img width="1366" height="768" alt="TOP THREE REGONS" src="https://github.com/user-attachments/assets/1a923534-f585-45ad-867a-db501f8849a2" />
+
+bottom three: 
+<img width="1012" height="691" alt="BOTTOM THREE REGIONS" src="https://github.com/user-attachments/assets/678b5ec8-b386-425f-9a28-dfd1c46a0f71" />
 
 
-2. _What are the top three and bottom three in terms of sales:_
+2. _Which product category has the highest sales:_
 
-visualization:
+ visualization: 
+<img width="1016" height="708" alt="HIGHEST PRODUCT" src="https://github.com/user-attachments/assets/02bb73b4-892d-4f0f-8529-dbc15a5e58e9" />
 
 3. _Which small business customer had the highest sales:_
 
 visualization:
+<img width="1020" height="713" alt="HIGHEST SMALL BUSINESS" src="https://github.com/user-attachments/assets/6d2e6dc8-0c13-4773-a193-05f0a4902172" />
 
 4. _Which customer consumer was the most profitable one:_
 
 visualization:
+<img width="1366" height="768" alt="MOST PROFITALE CUSTOMER" src="https://github.com/user-attachments/assets/bc248aa9-43ae-491d-9396-456cea4ba6aa" />
 
 5. _Kms incurred the most shipping cost by what shipping mode:_
 
 visualization:
+<img width="1012" height="695" alt="SHIPPING COST" src="https://github.com/user-attachments/assets/1aab7be0-6c58-4f68-9e5a-de7ae90e92f3" />
 
 6. _Which corporate customer placed the most number of order in 2009-2012:_
 
 visualization:
+<img width="1016" height="689" alt="CORPORATE CUSTOMER ORDER" src="https://github.com/user-attachments/assets/56d176cd-e6b1-44a4-b332-0b3f85030a15" />
