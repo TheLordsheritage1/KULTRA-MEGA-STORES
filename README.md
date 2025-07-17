@@ -67,7 +67,8 @@ Some key focus in the exploratory data analysis are
 1. _What are the top three and bottom three regions in terms of sales:_
 
 Visualization top three:
-<img width="1366" height="768" alt="TOP THREE REGONS" src="https://github.com/user-attachments/assets/1a923534-f585-45ad-867a-db501f8849a2" />
+<img width="1020" height="695" alt="top three regions" src="https://github.com/user-attachments/assets/97223291-2fdb-482b-9b33-3692d04ee156" />
+
 
 bottom three: 
 <img width="1012" height="691" alt="BOTTOM THREE REGIONS" src="https://github.com/user-attachments/assets/678b5ec8-b386-425f-9a28-dfd1c46a0f71" />
