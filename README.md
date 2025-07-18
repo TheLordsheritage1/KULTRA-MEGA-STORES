@@ -66,25 +66,29 @@ At this stage, I made use of both Ms excel and sql  to explore the dataset and d
 Some key focus in the exploratory data analysis are
 1. _What are the top three and bottom three regions in terms of sales:_
 
-Visualization top three:
+To understand how different regions performed in terms of revenue generation, I analyzed the total sales across all regions. This helps identify which areas contributed most to the business and which ones lagged behind.
+
+Visualization; top three regions with the highest total sales which indicating strong market presence or customer activity.
 <img width="1020" height="695" alt="top three regions" src="https://github.com/user-attachments/assets/97223291-2fdb-482b-9b33-3692d04ee156" />
 
 
-bottom three: 
+visualization; Bottom 3 regions with the lowest total sales which possibly highlights areas of weak performance or low customer activity 
 <img width="1012" height="691" alt="BOTTOM THREE REGIONS" src="https://github.com/user-attachments/assets/678b5ec8-b386-425f-9a28-dfd1c46a0f71" />
 
 
 2. _Which product category has the highest sales:_
+   To ascertain this, i had to sum up the total sales and then group it by category to arrive at the answer. From the Visualization it is visible that technology has the higest sales.
 
  visualization: 
 <img width="1016" height="708" alt="HIGHEST PRODUCT" src="https://github.com/user-attachments/assets/02bb73b4-892d-4f0f-8529-dbc15a5e58e9" />
 
 3. _Which small business customer had the highest sales:_
-
+The same process above is repeated here and from the analysis i was able to draw that Dennis kane has the highest sales which simply indicates high market presence.
 visualization:
 <img width="1020" height="713" alt="HIGHEST SMALL BUSINESS" src="https://github.com/user-attachments/assets/6d2e6dc8-0c13-4773-a193-05f0a4902172" />
 
 4. _Which customer consumer was the most profitable one:_
+   To ascertain this, i used the profit column, i summed up the profit column
 
 visualization:
 <img width="1366" height="768" alt="MOST PROFITALE CUSTOMER" src="https://github.com/user-attachments/assets/bc248aa9-43ae-491d-9396-456cea4ba6aa" />
