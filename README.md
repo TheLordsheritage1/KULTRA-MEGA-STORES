@@ -102,3 +102,10 @@ visualization:
 
 visualization:
 <img width="1016" height="689" alt="CORPORATE CUSTOMER ORDER" src="https://github.com/user-attachments/assets/56d176cd-e6b1-44a4-b332-0b3f85030a15" />
+
+## KEY INSIGHTS 
+- The analyses of the top and bottom 3 regions provides direction for strategic decisions such as where to invest more resources or investigate sales challenges.
+- After analyses it was found that Technology category generated the highest revenue, indicating strong customer demand and high-value transactions in this segment.”
+- 
+
+- Delivery truck incurred the most shipping cost
