@@ -88,13 +88,13 @@ visualization:
 <img width="1020" height="713" alt="HIGHEST SMALL BUSINESS" src="https://github.com/user-attachments/assets/6d2e6dc8-0c13-4773-a193-05f0a4902172" />
 
 4. _Which customer consumer was the most profitable one:_
-   To ascertain this, i used the profit column, i summed up the profit column
+   Most profitable customer consumer simply means the person that generates the most revenue, so i used the profit column, i summed up the profit column, grouped by customer name and was able to pinpoint that dave kipp was the most profitable customer 
 
 visualization:
 <img width="1366" height="768" alt="MOST PROFITALE CUSTOMER" src="https://github.com/user-attachments/assets/bc248aa9-43ae-491d-9396-456cea4ba6aa" />
 
 5. _Kms incurred the most shipping cost by what shipping mode:_
-
+The shipping mode that used the most shipping cost was the delivery van, possibly due to large order of goods that were in close proximity or orders that didn't require the need of water or air shipping mode.
 visualization:
 <img width="1012" height="695" alt="SHIPPING COST" src="https://github.com/user-attachments/assets/1aab7be0-6c58-4f68-9e5a-de7ae90e92f3" />
 
